@@ -509,7 +509,7 @@ function App() {
                 </div>
               </div>
               <p className="text-gray-300 mb-6 italic">
-                "GlobalNexus has transformed our international supply chain. Their attention to detail and proactive problem-solving have made them an invaluable partner in our global operations."
+                "GlobalLift has transformed our international supply chain. Their attention to detail and proactive problem-solving have made them an invaluable partner in our global operations."
               </p>
               <div className="flex items-center">
                 <img 
@@ -539,7 +539,7 @@ function App() {
                 </div>
               </div>
               <p className="text-gray-300 mb-6 italic">
-                "Working with GlobalNexus has given us a competitive edge in international markets. Their expertise in navigating complex regulations has been crucial to our success."
+                "Working with GlobalLift has given us a competitive edge in international markets. Their expertise in navigating complex regulations has been crucial to our success."
               </p>
               <div className="flex items-center">
                 <img 
@@ -569,7 +569,7 @@ function App() {
                 </div>
               </div>
               <p className="text-gray-300 mb-6 italic">
-                "The level of service and attention to detail provided by GlobalNexus is unmatched. They've consistently delivered on their promises and exceeded our expectations."
+                "The level of service and attention to detail provided by GlobalLift is unmatched. They've consistently delivered on their promises and exceeded our expectations."
               </p>
               <div className="flex items-center">
                 <img 
@@ -638,7 +638,7 @@ function App() {
                   </div>
                   <div>
                     <h3 className="font-bold text-white">Email Us</h3>
-                    <p className="text-gray-300">contact@globalnexus.com</p>
+                    <p className="text-gray-300">contact@GlobalLift.com</p>
                   </div>
                 </div>
                 <div className="flex items-start">
@@ -728,7 +728,7 @@ function App() {
             <div>
               <div className="flex items-center mb-4">
                 <Globe2 className="text-gold h-8 w-8 mr-2" />
-                <span className="text-2xl font-bold text-white">GLOBAL<span className="text-gold">NEXUS</span></span>
+                <span className="text-2xl font-bold text-white">GLOBAL<span className="text-gold">LIFT</span></span>
               </div>
               <p className="text-gray-400">
                 Premium import/export solutions for businesses that demand excellence.
@@ -902,7 +902,7 @@ function App() {
           </div>
           <div className="border-t border-gray-800 pt-8 mt-8 flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-400 mb-4 md:mb-0">
-              © {new Date().getFullYear()} GlobalNexus. All rights reserved.
+              © {new Date().getFullYear()} GlobalLift. All rights reserved.
             </p>
             <div className="flex space-x-6">
               <a 
