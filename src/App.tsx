@@ -145,7 +145,7 @@ function App() {
           <div className="flex justify-between items-center">
             <div className="flex items-center">
               <Globe2 className="text-gold h-8 w-8 mr-2" />
-              <span className="text-2xl font-bold text-white">GLOBAL<span className="text-gold">NEXUS</span></span>
+              <span className="text-2xl font-bold text-white">GLOBAL<span className="text-gold">LIFT</span></span>
             </div>
             <div className="hidden md:flex space-x-8">
               <a 
@@ -638,7 +638,7 @@ function App() {
                   </div>
                   <div>
                     <h3 className="font-bold text-white">Email Us</h3>
-                    <p className="text-gray-300">contact@GlobalLift.com</p>
+                    <p className="text-gray-300">contact@globallift.com</p>
                   </div>
                 </div>
                 <div className="flex items-start">
